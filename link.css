@@ -1,0 +1,33 @@
+body{
+    font-family: 'Pangolin', cursive;;
+    
+}
+h1{
+    color: cornflowerblue;
+    font-weight: 500;
+    font-family: 'Pangolin', cursive;
+    font-size: 50px;
+}
+p{
+    font-family: cursive;
+    font-weight: 600;
+    font-size: 20px;
+}
+h3{
+    font-size: 40px;
+}
+.highlight{
+    color: crimson;
+}
+.section1{
+    width: 40%;
+    float: left;
+    margin-right: 5%;
+    padding-left: 2%;
+}
+.section2 img{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
